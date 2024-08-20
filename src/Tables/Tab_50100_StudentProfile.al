@@ -5,7 +5,6 @@ table 50100 "Student Profile"
     Caption = 'Student Profile Record';
     Description = 'This is responsible for storing our student record';
 
-
     fields
     {
         field(1; "Matric Number"; Integer)
